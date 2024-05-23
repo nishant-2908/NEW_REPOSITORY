@@ -1,7 +1,6 @@
-## pyConverter: Python Project
+# PyConverter: Python Project
 
-This project is designed to help the users convert one quantity to another.  
-It consists of 9 quantities:
+PyConverter is a Python project designed to help users convert quantities from one unit to another. It consists of 9 quantities:
 - Length
 - Weight
 - Area
@@ -12,5 +11,9 @@ It consists of 9 quantities:
 - Speed
 - Pressure
 
-It takes the input for the quantity and the number.  
-It then converts it to each unit of the quantity specified.
+## Installation
+
+To install PyConverter, you can use pip:
+
+```bash
+git clone https://www.github.com/nishant-2908/pyconverter.git
